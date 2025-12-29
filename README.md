@@ -83,7 +83,7 @@ graph TB
 
 ```bash
 # 1. Clone and enter
-git clone https://github.com/nazirlouis/ada_v2.git && cd ada_v2
+git clone https://github.com/Alisha-21-cloud/ADA_V2.git && cd ADA_V2
 
 # 2. Create Python environment (Python 3.11)
 conda create -n ada_v2 python=3.11 -y && conda activate ada_v2
@@ -432,6 +432,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <strong>Built with 🤖 by Nazir Louis</strong><br>
+  <strong>Built with 🤖 by Syed Ahmad Alisha</strong><br>
   <em>Bridging AI, CAD, and Vision in a Single Interface</em>
 </p>
