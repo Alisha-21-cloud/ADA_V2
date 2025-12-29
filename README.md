@@ -126,9 +126,9 @@ If you have never coded before, follow these steps first!
 1. Open your terminal (or Command Prompt on Windows).
 2. Type this command and hit Enter:
    ```bash
-   git clone https://github.com/nazirlouis/ada_v2.git
+   git clone https://github.com/Alisha-21-cloud/ADA_V2.git
    ```
-3. This creates a folder named `ada_v2`.
+3. This creates a folder named `ADA_V2`.
 
 **Step 5: Open in VS Code**
 1. Open VS Code.
